@@ -17,4 +17,4 @@ I build **web apps and tools** and like keeping my code clean and fast.
 
 ## 📫 Contact
 
-- 💬 Twitter: [@3stq3](https://discord.gg/hWKFF4M4)  
+- 💬 discord: [@3stq3](https://discord.gg/hWKFF4M4)  
