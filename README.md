@@ -32,7 +32,9 @@
 
 ## projects
 
-* developer / founder of project aspect 
+* developer / founder of project aspect
+
+* * developer of benzi's hosting
 
 ---
 
