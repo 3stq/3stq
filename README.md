@@ -32,7 +32,7 @@
 
 ## projects
 
-*developer / founder of project aspect 
+* developer / founder of project aspect 
 
 ---
 
